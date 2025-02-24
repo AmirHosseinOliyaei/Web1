@@ -459,6 +459,7 @@ p.big-item1-title3 {
   color: #ffff;
   border-radius: 3px;
   font-size: 20px;
+   border: none;
 }
 .footer2 {
   direction: ltr;
